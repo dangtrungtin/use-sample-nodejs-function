@@ -1,0 +1,22 @@
+{
+  "name": "use-sample-nodejs-function",
+  "version": "1.0.0",
+  "description": "This is a sample code to check publish to npm package only.",
+  "main": "index.js",
+  "dependencies": {
+    "sample-nodejs-function": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangtrungtin/use_sample_nodejs_function.git"
+  },
+  "author": "Dang Trung Tin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangtrungtin/use_sample_nodejs_function/issues"
+  },
+  "homepage": "https://github.com/dangtrungtin/use_sample_nodejs_function#readme"
+}
